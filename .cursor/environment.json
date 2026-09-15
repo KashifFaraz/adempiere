@@ -1,0 +1,6 @@
+{
+  "name": "ADempiere",
+  "install": "bash .cursor/install.sh",
+  "start": "bash .cursor/start.sh",
+  "ports": [8888, 4444]
+}
